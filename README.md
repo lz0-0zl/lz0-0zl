@@ -11,22 +11,20 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <a href="https://github.com/lz0-0zl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lz0-0zl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lz0-0zl&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zl0-0zl&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
 
   ##    
   
-  <img align="center" alt="Nando-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Nando-Sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  
+  <img align="center" alt="Nando-Csharp" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="Nando-Sqlite" height="30" width="40" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img align="center" alt="Nando-Office" height="30" width="40" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+      
   ##
  
 <div> 
- 
   <a href="https://instagram.com/luizfernandofriedel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lf.nando@yahoo.de"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-fernando-friedel-1a434641/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-   
+  <a href = "mailto:lf.nando@yahoo.de"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank"></a>
 </div>
