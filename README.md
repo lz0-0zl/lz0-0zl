@@ -6,7 +6,9 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in C#, VBA and databases, expecially sqlite.
 - 🌱 I’m currently learning Web applications using HTML, CSS, ASP.NET and Razor Pages
 - 💞️ I’m looking to collaborate on projects any of theses programming languagues
-- 📫 Fell always free to contact me!!!
+- 📫 <a href = "mailto:lf.nando@yahoo.de">
+    <img align="right" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank">
+  </a>
 
  <div align="center">
         <a href="https://github.com/lz0-0zl">
@@ -31,7 +33,4 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/luiz-fernando-friedel-1a434641/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a> 
-  <a href = "mailto:lf.nando@yahoo.de">
-    <img align="right" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank">
-  </a>
 </div>
