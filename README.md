@@ -32,6 +32,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a> 
   <a href = "mailto:lf.nando@yahoo.de">
-    <img  src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank">
+    <img align="right" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank">
   </a>
 </div>
