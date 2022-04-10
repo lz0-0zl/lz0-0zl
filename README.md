@@ -6,10 +6,13 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in C#, VBA and databases, expecially sqlite.
 - 🌱 I’m currently learning Web applications using HTML, CSS, ASP.NET and Razor Pages
 - 💞️ I’m looking to collaborate on projects any of theses programming languagues
+
 ##
+<div>
 <a href = "mailto:lf.nando@yahoo.de">
   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank">
 </a>
+</div>
 
 ##
 <img align="center" alt="Nando-Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
