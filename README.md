@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <a href="https://github.com/lz0-0zl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lz0-0zl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lz0-0zl&theme=blue-green"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lz0-0zl&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
   ##
  
 <div> 
-  <a href="https://instagram.com/luizfernandofriedel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-fernando-friedel-1a434641/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lf.nando@yahoo.de"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank"></a>
+  <a href="https://instagram.com/luizfernandofriedel" target="_blank"><img height="40" width="100" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-fernando-friedel-1a434641/" target="_blank"><img height="40" width="100" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lf.nando@yahoo.de"><img height="40" width="100" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank"></a>
 </div>
