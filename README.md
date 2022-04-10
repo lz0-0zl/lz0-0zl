@@ -11,13 +11,9 @@ You can click the Preview link to take a look at your changes.
   <img align="right" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank">
 </a>
 
-##   
-
 <img align="center" alt="Nando-Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img align="center" alt="Nando-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="center" alt="Nando-Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>  
-
-##
 
 <div> 
   <a href="https://instagram.com/luizfernandofriedel" target="_blank">
