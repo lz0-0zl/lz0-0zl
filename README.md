@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on projects any of theses programming languagues
 - 📫 Fell always free to contact me!!!
 
-    <div align="center">
+ <div align="center">
         <a href="https://github.com/lz0-0zl">
             <img height="180" src="https://github-readme-stats.vercel.app/api?username=lz0-0zl&theme=blue-green" />
             <img height="180"
@@ -38,3 +38,4 @@ You can click the Preview link to take a look at your changes.
             <a href="mailto:lf.nando@yahoo.de"><img height="40" width="180"
                     src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank"></a>
         </div>
+
