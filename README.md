@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in C#, VBA and databases, expecially sqlite.
 - 🌱 I’m currently learning Web applications using HTML, CSS, ASP.NET and Razor Pages
 - 💞️ I’m looking to collaborate on projects any of theses programming languagues
-- 📫 Fell always free to contact me!!
+- 📫 Fell always free to contact me!!!
 
     <div align="center">
         <a href="https://github.com/lz0-0zl">
