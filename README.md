@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on projects any of theses programming languagues
 ##
 <a href = "mailto:lf.nando@yahoo.de">
-  <img align="center" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank">
+  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank">
 </a>
 
 ##
