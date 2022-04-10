@@ -2,7 +2,7 @@
 lz0-0zl/lz0-0zl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align="top-right">
+<div align="right">
 <a href = "mailto:lf.nando@yahoo.de">
   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank">
 </a>
